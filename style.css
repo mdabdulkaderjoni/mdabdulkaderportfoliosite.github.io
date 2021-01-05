@@ -1,0 +1,98 @@
+body{
+    margin:0;
+    padding:0;
+}
+/* Start of navbar section */
+.header{
+    background-color: #FFFFFF;
+    height: 75px; 
+    box-shadow:  0px 3px 8px #e2dfdf;
+}
+.top-banner{
+    margin-left: 50px;
+    float: left;
+    width: 30%;
+}
+.fab{
+    font-size: 40px;
+    margin-top: 20px;
+    color: rgb(180, 12, 12); 
+}
+
+.header h1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 35px;
+    margin-left: 5px;
+    display: inline;
+}
+.nav{
+    float: right;
+    margin-top:30px;  
+    margin-right:60px; 
+}
+.nav ul{
+    list-style-type: none;
+    margin: 0;
+}
+.nav ul li{
+    display: inline;
+    margin: 25px;   
+}
+.nav ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* End of navbar */
+
+/* Start of intro and about section */
+.first-section{
+    height:600px;
+    margin-top: 20px;
+}
+.half-width1{  
+    width: 30%;
+    margin:5% 8%; 
+    float:left;  
+}
+.half-width1 h2{  
+    font-family: 'Lato', sans-serif;
+    font-size: 35px; 
+    margin:0;
+    line-height: 45px;
+}
+.half-width1 p,a{  
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px; 
+}
+.half-width1 span{
+    color:rgb(241, 92, 66);
+}
+.half-width1 a{
+    font-weight: 400;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(243, 124, 76),rgb(231, 42, 8));   
+    padding: 10px 20px;
+    border-radius: 4px;
+    color: white;
+}
+.half-width2{
+    float:left;
+    width: 50%;
+}
+.half-width2 img{
+    margin-top: 45px;
+    height:350px;
+    box-shadow:  5px 10px 15px 5px #d1c9c9;
+    border-radius: 50%;
+    margin-left: 10%;
+}
+.fas{
+    font-size: 16px;
+    margin-right: 5px;
+
+}
+/* End of intro and about section */
+
+/* Start of second section */
