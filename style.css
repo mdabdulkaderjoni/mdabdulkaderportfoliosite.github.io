@@ -68,7 +68,8 @@ body{
 }
 .half-width1 p, a{  
     font-family: 'PT Sans', sans-serif;
-    font-size: 18px; 
+    font-size: 20px;
+    line-height: 25px;
 }
 span{
     color:rgb(241, 92, 66);
@@ -87,7 +88,7 @@ span{
 }
 .half-width2 img{
     margin-top: 45px;
-    height:350px;
+    height:430px;
     box-shadow:  5px 10px 15px 5px #d1c9c9;
     border-radius: 50%;
     margin-left: 10%;
@@ -105,10 +106,10 @@ span{
 .image-section{
     margin:0;
     background-color: rgb(229, 241, 241);
-    height: 660px;
+    height: 750px;
 }
 .image-section h2{
-    margin:0 30%;
+    margin-left: 33%;
     padding: 50px 0px;
     font-size: 35px;
     font-family: 'Lato', sans-serif;
@@ -123,22 +124,24 @@ span{
     width:350px;
     height: 250px;
     border-radius: 12px;
-    margin-left: 40px;
+    margin-left: 45px;
     box-shadow:  5px 5px 10px 2px #aaa2a2;
     border-radius: 12px;
 }
 .imgblock h3{
     font-family: 'Lato', sans-serif;
     width: 80%;
-    margin-left: 35px;
+    margin-left: 45px;
 }
 .imgblock p{
     font-family: 'Lato', sans-serif;
     width: 80%;
-    margin-left: 35px;
+    margin-left: 45px;
+    font-size: 20px;
+    line-height: 25px;
 }
 .more-btn{
-    margin: 40px 0 0 60px;
+    margin-left:45%;
 }
 .more-btn a{
     text-decoration: none;
@@ -159,7 +162,7 @@ span{
 }
 .service-banner{
     margin: 0;
-    padding-left: 40%;
+    padding-left: 42%;
     padding-top: 40px;
     font-family: 'Lato', sans-serif;sans-serif;
     font-size: 35px;
@@ -190,6 +193,7 @@ span{
 .demo p{
     color:rgb(49, 49, 45);
     font-size: 20px;
+    line-height: 25px;
     font-family: 'Lato', sans-serif;
     padding: 20px;
 }
