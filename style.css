@@ -48,7 +48,7 @@ body{
 
 /* Start of intro and about section */
 .first-section{
-    height:600px;
+    height:550px;
     margin-top: 20px;
 }
 .half-width1{  
@@ -62,11 +62,11 @@ body{
     margin:0;
     line-height: 45px;
 }
-.half-width1 p,a{  
+.half-width1 p, a{  
     font-family: 'PT Sans', sans-serif;
-    font-size: 20px; 
+    font-size: 18px; 
 }
-.half-width1 span{
+span{
     color:rgb(241, 92, 66);
 }
 .half-width1 a{
@@ -87,6 +87,7 @@ body{
     box-shadow:  5px 10px 15px 5px #d1c9c9;
     border-radius: 50%;
     margin-left: 10%;
+    border:2px solid rgb(248, 244, 244);
 }
 .fas{
     font-size: 16px;
@@ -95,4 +96,41 @@ body{
 }
 /* End of intro and about section */
 
-/* Start of second section */
+
+/* Start of image section */
+.image-section{
+    margin:0;
+    background-color: rgb(229, 241, 241);
+    height: 650px;
+}
+.image-section h2{
+    margin:0 30%;
+    padding: 50px 0px;
+    font-size: 35px;
+    font-family: 'Lato', sans-serif;
+}
+.imgblock{
+    width:30%;
+    float:left;
+    margin: 0;
+    padding-left: 25px;
+}
+.imgblock img{
+    width:350px;
+    height: 250px;
+    border-radius: 12px;
+    margin-left: 35px;
+    box-shadow:  5px 5px 10px 2px #aaa2a2;
+    border-radius: 12px;
+}
+.imgblock h3{
+    font-family: 'Lato', sans-serif;
+    width: 80%;
+    margin-left: 35px;
+}
+.imgblock p{
+    font-family: 'Lato', sans-serif;
+    width: 80%;
+    margin-left: 35px;
+}
+/* End of image section */
