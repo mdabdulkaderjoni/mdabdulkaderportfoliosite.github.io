@@ -168,7 +168,7 @@ span{
     font-size: 35px;
     color:#292930;
 }
-.demo{
+.demo-image{
     width: 26%;
     float: left;
 
@@ -182,7 +182,7 @@ span{
     background-color: white;
     box-shadow:  10px 10px 40px rgb(204, 200, 223);
 }
-.demo h2{
+.demo-image h2{
     margin-top:0;
     margin-left: 50px;
     padding-top: 30px;
@@ -190,20 +190,20 @@ span{
     font-size: 25px;
     color: rgb(14, 13, 13);
 }
-.demo p{
+.demo-image p{
     color:rgb(49, 49, 45);
     font-size: 20px;
     line-height: 25px;
     font-family: 'Lato', sans-serif;
     padding: 20px;
 }
-.demo .fab{
+.demo-image .fab{
     font-size: 90px;
     color: rgb(73, 73, 70);
     margin-left: 120px;
 }
 
-.demo .fas{
+.demo-image .fas{
     font-size: 90px;
     color: rgb(51, 48, 45);
     margin-top: 20px;
