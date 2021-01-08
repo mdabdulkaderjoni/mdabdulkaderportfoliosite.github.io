@@ -7,20 +7,26 @@ body{
     background-color: #FFFFFF;
     height: 75px; 
     box-shadow:  0px 3px 8px #e2dfdf;
+
+
 }
 .top-banner{
     margin-left: 50px;
     float: left;
     width: 30%;
+
+
 }
 .top-banner a{
     text-decoration: none;
     color:black;
+
 }
 .fab{
     font-size: 40px;
     margin-top: 20px;
     color: rgb(180, 12, 12); 
+
 }
 
 .header h1{
@@ -28,25 +34,32 @@ body{
     font-size: 35px;
     margin-left: 5px;
     display: inline;
+
 }
 .nav{
     float: right;
     margin-top:30px;  
     margin-right:60px; 
+
+
 }
 .nav ul{
     list-style-type: none;
     margin: 0;
+
 }
 .nav ul li{
     display: inline;
     margin: 25px;   
+
+
 }
 .nav ul li a{
     text-decoration: none;
     font-size: 20px;
     color:black;
     font-family: Arial, Helvetica, sans-serif;
+
 }
 /* End of navbar */
 
@@ -59,6 +72,7 @@ body{
     width: 30%;
     margin:5% 8%; 
     float:left;  
+    
 }
 .half-width1 h2{  
     font-family: 'Lato', sans-serif;
@@ -117,8 +131,10 @@ span{
 .imgblock{
     width:30%;
     float:left;
-    margin: 0;
+    margin:0;
     padding-left: 25px;
+
+
 }
 .imgblock img{
     width:350px;
